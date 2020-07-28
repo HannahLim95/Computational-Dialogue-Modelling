@@ -1,0 +1,12 @@
+name: cdm
+channels:
+- defaults
+dependencies:
+- Python
+- Pandas
+- Numpy
+- jupyter
+- scikit-learn
+- matplotlib
+- pytorch
+- statsmodels

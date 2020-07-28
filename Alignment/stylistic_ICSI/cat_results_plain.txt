@@ -1,0 +1,218 @@
+
+==================================
+EXPERIMENT: 1
+TARGET GENDER: m
+==================================
+
+BETA: 0
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+>> articles:	-22.508	0.000
+>> pronoun:	-5.164	0.000
+>> prepositions:	-22.857	0.000
+>> negations:	-34.955	0.000
+>> tentative:	-31.585	0.000
+>> certainty:	-35.670	0.000
+>> discrepancy:	-35.279	0.000
+>> exclusive:	-21.354	0.000
+>> inclusive:	-28.716	0.000
+
+BETA: 1
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+>> articles:	2.804	0.005
+pronoun:	1.014	0.311
+prepositions:	0.901	0.367
+negations:	1.616	0.106
+tentative:	1.669	0.095
+certainty:	0.057	0.955
+>> discrepancy:	1.963	0.050
+exclusive:	1.089	0.276
+>> inclusive:	2.984	0.003
+
+BETA: 2
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+>> articles:	2.422	0.015
+pronoun:	0.369	0.712
+>> prepositions:	2.377	0.017
+negations:	1.369	0.171
+>> tentative:	2.298	0.022
+certainty:	-0.906	0.365
+discrepancy:	-0.242	0.808
+exclusive:	0.122	0.903
+>> inclusive:	2.071	0.038
+
+BETA: 3
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+>> articles:	2.360	0.018
+>> pronoun:	2.226	0.026
+>> prepositions:	3.056	0.002
+negations:	0.662	0.508
+tentative:	1.505	0.132
+certainty:	0.920	0.358
+>> discrepancy:	3.614	0.000
+>> exclusive:	3.213	0.001
+>> inclusive:	2.066	0.039
+
+BETA: 4
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-1.176	0.239
+pronoun:	-0.235	0.814
+prepositions:	-0.374	0.708
+negations:	-0.766	0.443
+tentative:	-0.927	0.354
+certainty:	0.410	0.682
+discrepancy:	-0.177	0.860
+exclusive:	-0.534	0.593
+>> inclusive:	-2.251	0.024
+
+BETA: 5
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+>> articles:	-2.703	0.007
+pronoun:	-0.710	0.478
+prepositions:	-1.478	0.139
+negations:	-0.981	0.327
+tentative:	-0.093	0.926
+certainty:	0.139	0.889
+>> discrepancy:	-2.103	0.035
+exclusive:	-1.357	0.175
+inclusive:	-1.688	0.091
+
+BETA: 6
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-1.160	0.246
+pronoun:	-0.878	0.380
+prepositions:	-1.267	0.205
+negations:	0.043	0.965
+tentative:	-0.895	0.371
+certainty:	0.531	0.595
+discrepancy:	-1.184	0.236
+exclusive:	-0.580	0.562
+inclusive:	-0.264	0.792
+
+BETA: 7
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	1.879	0.060
+pronoun:	0.685	0.494
+prepositions:	1.016	0.310
+negations:	1.274	0.203
+tentative:	0.841	0.400
+certainty:	-0.177	0.860
+discrepancy:	1.527	0.127
+exclusive:	0.733	0.463
+inclusive:	1.705	0.088
+
+==================================
+EXPERIMENT: 1
+TARGET GENDER: f
+==================================
+
+BETA: 0
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+>> articles:	-21.443	0.000
+>> pronoun:	-4.967	0.000
+>> prepositions:	-22.769	0.000
+>> negations:	-30.002	0.000
+>> tentative:	-26.779	0.000
+>> certainty:	-30.176	0.000
+>> discrepancy:	-28.109	0.000
+>> exclusive:	-16.238	0.000
+>> inclusive:	-23.178	0.000
+
+BETA: 1
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-0.604	0.546
+pronoun:	1.913	0.056
+prepositions:	1.143	0.253
+>> negations:	2.728	0.006
+tentative:	1.202	0.230
+certainty:	-0.679	0.497
+discrepancy:	0.883	0.377
+exclusive:	-1.570	0.116
+>> inclusive:	2.229	0.026
+
+BETA: 2
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	1.239	0.215
+pronoun:	1.526	0.127
+>> prepositions:	2.397	0.017
+negations:	0.942	0.346
+tentative:	-1.086	0.277
+certainty:	-1.413	0.158
+discrepancy:	-1.356	0.175
+exclusive:	-0.422	0.673
+inclusive:	1.804	0.071
+
+BETA: 3
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	1.162	0.245
+pronoun:	1.237	0.216
+>> prepositions:	2.145	0.032
+negations:	0.526	0.599
+tentative:	-0.378	0.705
+certainty:	1.386	0.166
+discrepancy:	-0.120	0.905
+>> exclusive:	3.112	0.002
+inclusive:	0.928	0.354
+
+BETA: 4
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	1.599	0.110
+>> pronoun:	-2.162	0.031
+prepositions:	-0.873	0.383
+>> negations:	-2.543	0.011
+tentative:	-1.277	0.201
+certainty:	0.375	0.708
+discrepancy:	-0.382	0.702
+exclusive:	0.650	0.516
+>> inclusive:	-2.164	0.030
+
+BETA: 5
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	0.258	0.797
+pronoun:	-1.575	0.115
+prepositions:	-1.536	0.125
+negations:	-1.619	0.106
+tentative:	0.921	0.357
+certainty:	0.271	0.787
+discrepancy:	0.286	0.775
+exclusive:	0.092	0.927
+>> inclusive:	-2.335	0.020
+
+BETA: 6
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	0.109	0.913
+pronoun:	0.730	0.466
+prepositions:	0.439	0.660
+negations:	0.688	0.491
+>> tentative:	2.780	0.005
+certainty:	1.167	0.243
+>> discrepancy:	2.396	0.017
+exclusive:	0.473	0.636
+inclusive:	-1.020	0.308
+
+BETA: 7
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-0.316	0.752
+pronoun:	1.538	0.124
+prepositions:	0.747	0.455
+negations:	1.195	0.232
+tentative:	-0.600	0.548
+certainty:	-0.335	0.737
+discrepancy:	-0.144	0.885
+exclusive:	0.119	0.906
+>> inclusive:	3.400	0.001

@@ -1,0 +1,95 @@
+
+==================================
+TARGET GENDER: m
+EQUATION: 1
+NORMALISE: False
+==================================
+
+BETA: 3
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-0.119	0.906
+pronoun:	-0.674	0.500
+prepositions:	-0.721	0.471
+negations:	0.524	0.600
+tentative:	-1.398	0.162
+certainty:	0.556	0.578
+discrepancy:	1.612	0.107
+exclusive:	-0.325	0.745
+inclusive:	-1.354	0.176
+
+==================================
+TARGET GENDER: m
+EQUATION: 1
+NORMALISE: False
+==================================
+
+BETA: 3
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-0.119	0.906
+pronoun:	-0.674	0.500
+prepositions:	-0.721	0.471
+negations:	0.524	0.600
+tentative:	-1.398	0.162
+certainty:	0.556	0.578
+discrepancy:	1.612	0.107
+exclusive:	-0.325	0.745
+inclusive:	-1.354	0.176
+
+==================================
+TARGET GENDER: m
+EQUATION: 1
+NORMALISE: False
+==================================
+
+BETA: 3
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-0.119	0.906
+pronoun:	-0.674	0.500
+prepositions:	-0.721	0.471
+negations:	0.524	0.600
+tentative:	-1.398	0.162
+certainty:	0.556	0.578
+discrepancy:	1.612	0.107
+exclusive:	-0.325	0.745
+inclusive:	-1.354	0.176
+
+==================================
+TARGET GENDER: m
+EQUATION: 1
+NORMALISE: False
+==================================
+
+BETA: 3
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-0.119	0.906
+pronoun:	-0.674	0.500
+prepositions:	-0.721	0.471
+negations:	0.524	0.600
+tentative:	-1.398	0.162
+certainty:	0.556	0.578
+discrepancy:	1.612	0.107
+exclusive:	-0.325	0.745
+inclusive:	-1.354	0.176
+
+==================================
+TARGET GENDER: m
+EQUATION: 1
+NORMALISE: False
+==================================
+
+BETA: 3
+CATEGORIES:	Z-SCORES	P-VALUES
+----------------------------------
+articles:	-0.119	0.906
+pronoun:	-0.674	0.500
+prepositions:	-0.721	0.471
+negations:	0.524	0.600
+tentative:	-1.398	0.162
+certainty:	0.556	0.578
+discrepancy:	1.612	0.107
+exclusive:	-0.325	0.745
+inclusive:	-1.354	0.176
